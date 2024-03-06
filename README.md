@@ -28,13 +28,66 @@ Conteudo
     <a href = #statusprojeto> Status Projeto </a>
 </li>
 
+<li>
+    <a href = #features> Features </a>
+</li>
+
+<li>
+    <a href = #prerequisitos> Pré requisitos </a>
+</li>
+
+<li>
+    <a href = #mapadoprojeto> Mapa do Projeto </a>
+</li>
+
+<li>
+    <a href = #tecnologiasutilizadas> Tecnologias Utilizadas </a>
+</li>
+
 </ul>
 
 
 
 ## Status do Projeto
-<h4 id = "statusprojeto" align = "left">
+<p id = "statusprojeto"></p>
+<h4  align = "left">
     Em construção...
 </h4>
 
+## Features
+<p id = "features"></p>
 
+- [x] README - Padrões de documentação
+- [ ] README - usando ssh
+
+## Pré Requisitos
+
+<p id = "prerequisitos"></p>
+
+Voce precisa ter instalado:
+
+<ul>
+    <li>
+        <a href = "https://code.visualstudio.com/">Vs Code</a>
+    </li>
+</ul>
+
+## Mapa do Projeto 
+
+<p id = "mapadoprojeto"></p>
+
+````
+├───img
+└───src
+    ├───app
+    ├───interface
+    └───repository
+
+````
+
+## Tecnologias Utilizadas
+
+<p id = "tecnologiasutilizadas"></p>
+
+- [HTML]
+- [MARKDOWN]
